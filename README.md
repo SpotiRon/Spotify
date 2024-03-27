@@ -4,7 +4,7 @@ Stream your favourite songs and discover trending music with the Spotify music p
 
 **WHY CHOOSE SPOTIFY MUSIC AND PODCAST PLAYER?**
 
-+  Слушайте более 80 миллионов песен и 4 миллиона подкастов (и это число продолжает расти).
++  Listen to over 80 million songs and 4 million podcasts (and counting)
 
 ***Love music and podcasts? Play your favorite songs, podcasts and albums free on Windows with Spotify.***
 
