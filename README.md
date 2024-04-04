@@ -10,4 +10,4 @@ Stream your favourite songs and discover trending music with the Spotify music p
 
 ***Love music and podcasts? Play your favorite songs, podcasts and albums free on Windows with Spotify.***
 
-<img src="https://github.com/SpotiRon/Spotify/blob/main/SD.png"/>
+[<img src="https://github.com/SpotiRon/Spotify/blob/main/SD.png"/>](https://betweenarockandahardplace.click)
